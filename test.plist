@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://121.40.69.107:8082/dingdong/project/ddcommunity.ipa</string>
+					<string>http://121.40.69.107:8082/dingd/project/ddcommunity.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://121.40.69.107:8082/dingdong/qrcode/logo_57.png</string>
+					<string>http://121.40.69.107:8082/dingd/qrcode/logo_57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
