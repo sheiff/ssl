@@ -25,7 +25,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>comcom.lanxin.elin</string>
+				<string>com.lanxin.elin</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
